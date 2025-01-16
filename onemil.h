@@ -17,6 +17,8 @@
  *
  * No licence, public domain. I can't take credit for this text.
  * Use it however the heck you want to.
+ *
+ * Credit /u/skeeto for array optimization.
  */
 
 #ifndef _ONEMIL_H_
