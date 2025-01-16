@@ -24,6 +24,6 @@
 
 #define ONEMIL_SZ 1000000   // duh
 
-extern char *onemil[];
+extern char onemil[][80];
 
 #endif // _ONEMIL_H_
